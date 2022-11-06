@@ -1,0 +1,97 @@
+.card {
+    margin-top: 25px 
+}
+
+.row {
+    margin-top: 10px;
+}
+
+#red-alert {
+    padding: 0px;
+}    
+
+.form-group input
+{
+    margin-top: 7px;
+}
+
+#credit-cards {
+    margin-top: 7px;
+}
+
+#message {
+    margin-top: 7px;
+}
+
+.alert {
+    text-align: left;
+}
+
+h1 {
+    text-align: left;
+    font-size: 28px;
+}
+
+#state {
+    margin-top: 7px;
+}
+
+#credit-cards {
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: grey;
+    box-sizing: content-box;
+    max-width: fit-content;
+}
+
+.card-footer {
+    text-align: right !important;
+}
+
+i {
+    filter: invert(100%);
+}
+
+.form-check-input {
+    margin-bottom: 7px;
+    margin-left: 5px;
+    padding-top: 9px;
+}
+
+.form-check {
+    margin-left: 7px;
+}
+
+.form-check-label {
+    padding-top: 3px;
+}
+
+.col-auto {
+    margin-top: 0px;
+}
+
+#amount-text {
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 235px;
+}
+
+#amount-input{
+    margin-top: 0px;
+    padding-right: 0px;
+    box-sizing: content-box;
+}
+
+input[type=radio] {
+    border: 0px;
+    width: 10px;
+    height: 10px;
+}
+
+#signo-dolar {
+    position: absolute;
+    left: 74.75%;
+    bottom: 60.5%;
+    z-index: 100;
+    font-weight: bold;
+}
